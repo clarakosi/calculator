@@ -1,0 +1,46 @@
+.container-fluid {
+  background-color: #d3d3d3;
+  padding: 100px;
+}
+
+.container {
+  padding: 0px;
+}
+
+.jumbotron {
+  margin: auto;
+  width: 270px;
+  padding: 10px;
+  border: 3px solid green;
+  background-color: black;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.form-control {
+  height: 50px;
+  color: white;
+  text-align: right;
+  background-color: black;
+  border: solid 2px #404040;
+}
+.btn {
+  text-align: center;
+  width: 50px;
+  border-radius: 30px;
+}
+.d-flex {
+  padding-top: 10px;
+}
+
+.sign {
+  background-color: #ff7c02;
+  color: white;
+  font-size: 25px;
+}
+
+.number {
+  background-color: #404040;
+  color: white;
+}
